@@ -1,0 +1,34 @@
+{
+	"name": "Tgme3Ze",
+	"description": "A TeleGramBot to send messages secretly!",
+	"logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+	"keywords": [
+		"telegram",
+		"bot",
+		"python",
+		"telethon"
+	],
+	"repository": "https://github.com/Source-Ze/tgme3",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "6720857511:AAEgLIT3fT751_jsMJwr8hr5KI-Qrgly0VA",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "4b9a73c02e89da49ef7f7df8a7e30f65",
+            "value": ""
+        },
+        "26004411": {
+            "description": "6798245975",
+            "value": ""            
+	   }
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
+
+
+
